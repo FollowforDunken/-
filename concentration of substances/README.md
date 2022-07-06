@@ -16,6 +16,6 @@
 
 Требования заказчика:
 
-- метрика качества "симметричное среднее абсолютное процентное отклонение" sMAPE <= 10.
+- метрика качества sMAPE(симметричное среднее абсолютное процентное отклонение) <= 10.
 # Ключевые слова
 data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, lgbm, light gmb, Support vector machines,кросс-валидация, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees, regression, Reinforcement Learning, OpenCV, PIL.
